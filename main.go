@@ -11,3 +11,7 @@ func main() {
 func demotest() {
 	fmt.Println("Hej Matz")	
 }
+
+func demotest2() {
+	fmt.Println("test igen Hej Matz")	
+}
