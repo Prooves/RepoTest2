@@ -7,3 +7,7 @@ import "fmt"
 func main() {
 	fmt.Println("Hola!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
 }
+
+func demotest() {
+	fmt.Println("Hej Matz")	
+}
