@@ -16,6 +16,7 @@ func demotest() {
 func demotest2() {
 	fmt.Println("Hola!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
 	fmt.Println("Ein Swei Drei Fiehr")
+	fmt.Println("En ball groda dansar aldrig ensam")
 }
 
 
